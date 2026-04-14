@@ -92,7 +92,7 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let the LLM loop independently. Weak criteria ("make it work") require constant clarification.
 
-## Install
+### Install
 
 **Option A: Claude Code Plugin (recommended)**
 
